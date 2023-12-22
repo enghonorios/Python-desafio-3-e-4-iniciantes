@@ -1,4 +1,4 @@
-# Desafio 1 e 2 fazendo conta com dados
+# Desafio 3 e 4 fazendo conta com dados
 
 n1= int(input('Digite valor: '))
 n2= int(input('Outro valor: '))
